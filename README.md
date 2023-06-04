@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aymen7ey@gmail.com**
 
-- ⚡ Fun fact **I love Statistics.**
+- ⚡ Fun fact **I'm a Liverpool FC Fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
