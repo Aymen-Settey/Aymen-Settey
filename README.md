@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I am Aymen Settey</h1>
+<h1 align="center">Hi 👋, I'm Aymen Settey</h1>
 <h3 align="center">I am a second-year student at ISAMM, specializing in Big Data and Data Analytics.</h3>
 
-- 🔭 I’m currently working on **Sales Analysis project .**
+- 🔭 I’m currently working on **sales analysis project .**
 
 - 🌱 I’m currently learning **Advanced ML, NLP, ReactJS, NextJS...**
 
 - 👯 I’m looking to collaborate on **various data science projects.**
 
+- 👨‍💻 All of my projects are available at [https://647cea80da391b647b2a1e18--gleeful-taffy-eeee1f.netlify.app/](https://647cea80da391b647b2a1e18--gleeful-taffy-eeee1f.netlify.app/)
+
 - 💬 Ask me about **Python, R, Flutter...**
 
 - 📫 How to reach me **aymen7ey@gmail.com**
 
-- ⚡ Fun fact **I'm a Liverpool FC Fan.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bRUIqYu0i2V9RkfLhf7gj77yyg2Yse8W/view?usp=sharing](https://drive.google.com/file/d/1bRUIqYu0i2V9RkfLhf7gj77yyg2Yse8W/view?usp=sharing)
+
+- ⚡ Fun fact **I'm a Liverpool FC fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
