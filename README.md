@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, R, Flutter...**
 
-- 📫 How to reach me **aymen7ey@gmail.com**
+- 📫 How to reach me **aymensettey@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bRUIqYu0i2V9RkfLhf7gj77yyg2Yse8W/view?usp=sharing](https://drive.google.com/file/d/1bRUIqYu0i2V9RkfLhf7gj77yyg2Yse8W/view?usp=sharing)
 
