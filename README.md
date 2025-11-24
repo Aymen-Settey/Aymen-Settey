@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymen Settey</h1>
-<h3 align="center">I am a third-year student at ISAMM, specializing in Big Data and Data Analytics.</h3>
+<h3 align="center">I am a Software Engineer Student at ISAMM.</h3>
 
 - 🔭 I’m currently working on **sales analysis project .**
 
