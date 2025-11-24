@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **sales analysis project .**
 
-- 🌱 I’m currently learning **Advanced ML, NLP, ReactJS, NextJS...**
+- 🌱 I’m currently learning **Advanced ML, NLP, NextJS, React Native...**
 
-- 👯 I’m looking to collaborate on **various data science projects.**
+- 👯 I’m looking to collaborate on **various AI projects.**
 
 - 👨‍💻 All of my projects are available at [https://647cea80da391b647b2a1e18--gleeful-taffy-eeee1f.netlify.app/](https://647cea80da391b647b2a1e18--gleeful-taffy-eeee1f.netlify.app/)
 
